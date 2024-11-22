@@ -73,11 +73,11 @@ chat_with_erp_db_llm/
 │   ├── chains.py             # LLM and LangChain logic
 │   ├── db_connections.py     # Database connection and query execution logic
 │   └── utils.py              # Utility functions (optional)
-│
-├── resources/
 │   ├── .env                  # Environment variables
 │
+├── resources/
 ├── experiments/              # Optional: Experiments and scripts for testing
+|   | └── chat_experiment.ipynb
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project description
 └── .gitignore                # Ignored files
