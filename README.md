@@ -1,6 +1,6 @@
-# Chat with ERP Database Using LLM
+# Chat with ERP Database LLM
 ## Overview
-Chat with ERP Database Using LLM is a Python-based application that combines the power of natural language processing with SQL query generation to provide seamless access to data from an ERP system. Users can ask data-related questions in plain English, and the app intelligently generates SQL queries to retrieve the required information from a Microsoft SQL Server database. The results are then processed into human-readable natural language responses for effortless understanding.
+Chat with ERP Database LLM is a Python-based application that combines the power of natural language processing with SQL query generation to provide seamless access to data from an ERP system. Users can ask data-related questions in plain English, and the app intelligently generates SQL queries to retrieve the required information from a Microsoft SQL Server database. The results are then processed into human-readable natural language responses for effortless understanding.
 
 This app leverages LangChain and LLama 3.1 LLM (via Groq API) for natural language query generation and explanation. It also provides a user-friendly interface built using Streamlit.
 
