@@ -83,5 +83,8 @@ chat_with_erp_db_llm/
 └── .gitignore                # Ignored files
 ```
 
-## License
-This project is open source and available under the MIT License.
+## Copyright 2024 MHameez
+
+This repository and its contents are made available for viewing purposes only. 
+Cloning, downloading, or using this code for any commercial or non-commercial purpose 
+is strictly prohibited without prior written consent from the author.
